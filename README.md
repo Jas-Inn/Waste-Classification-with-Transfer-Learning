@@ -12,4 +12,3 @@ The pipeline goes like this:
 5. Unfreeze the last few VGG16 layers and fine-tune
 6. Evaluate on the test set and visualize predictions
 
-Final test accuracy: **~86%** across 24 classes.
